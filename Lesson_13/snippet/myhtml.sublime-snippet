@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+<!DOCTYPE html>
+<html lang="${1:ru}">
+<head>
+  <meta charset="utf-8">
+  <meta keywords="${2:Ключевые слова}">
+  <meta author="Сюр Денис">
+	<meta name="description" content="${3:Контент} "/>
+	<title>${4:NAme site}</title>
+ <link href="css/bootstrap.css" rel="stylesheet">
+ <link href="css/style.css" rel="stylesheet">
+ <link rel="shortcut icon" type="image/x-icon" href="">
+
+</head>
+<body>
+  <h1>${4: Document}</h1>
+</body>
+</html>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>myhtml</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!--<scope>source.html</scope>-->
+</snippet>
