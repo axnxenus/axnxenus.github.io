@@ -23,3 +23,5 @@
 [Урок11](https://axnxenus.github.io/lesson_11/ "Готовая домашка") - Сниппеты
 
 [Урок12](https://axnxenus.github.io/Lesson12/ "Готовая домашка") - Робота с репозиторием на GitHub
+
+[Урок13](https://axnxenus.github.io/Lesson_13/ "Готовая домашка") - Робота  в стиле Pixel Perfect
