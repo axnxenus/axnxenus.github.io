@@ -1,0 +1,37 @@
+/*Ключевые свойства анимации*/
+@keyframes move {
+  /*Первый кадр*/
+  from {
+    margin-left: 0;
+  }
+  /*Промежуточный  кадр*/
+  /*10% {
+    margin-left: 20px;
+  }*/
+  /*Конечний  кадр*/
+  to {
+    margin-left: 400px;
+  }
+}
+@keyframes bg-color {
+  /*Первый кадр*/
+  from {
+    background-color: red;
+  }
+  /*Промежуточный  кадр*/
+  /*10% {
+    margin-left: 20px;
+  }*/
+  /*Конечний  кадр*/
+  to {
+    background-color: blue;
+  }
+  
+}
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: red; 
+  /*animation: move 1s linear forwards, bg-color 1s linear ;*/
+  /*animation-iteration-count: infinite;*/
+}
