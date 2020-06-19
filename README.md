@@ -49,3 +49,5 @@
 [Урок18.1](https://axnxenus.github.io/Lesson18.1/ "Готовая домашка") - Верстка блока с ценами.
 
 [Урок19](https://axnxenus.github.io/Lesson19/ "Готовая домашка") - Анимация на CSS3.
+
+[Урок19.1](https://axnxenus.github.io/Lesson19.1/ "Готовая домашка") - Верстка блока с отзывами
