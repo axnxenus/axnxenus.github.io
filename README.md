@@ -55,3 +55,7 @@
 [Урок20](https://axnxenus.github.io/Lesson20/ "Готовая домашка") - Видео-фон на сайте.
 
 [Урок20.1](https://axnxenus.github.io/Lesson20.1/ "Готовая домашка") - Доверстали блок с отзывами
+
+[Урок21](https://axnxenus.github.io/Lesson21/ "Готовая домашка") - Parallax эффект для сайта.
+
+[Урок21-1](https://axnxenus.github.io/Lesson21_1/ "Готовая домашка") - Parallax эффект для сайта.ДЗ
