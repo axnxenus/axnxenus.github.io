@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="UTF-8">
+	<title>Parallax эффект для сайта</title>
+	
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	<link rel="stylesheet" href="css/style.css">
+</head> 
+
+<body>
+
+<section class="white">
+	<img class="rellax" data-rellax-speed="1" src="img/rekax/1.png" alt="">
+	<img class="rellax" data-rellax-speed="7" src="img/rekax/2.png" alt="">
+	<img class="rellax" data-rellax-speed="-7" src="img/rekax/3.png" alt="">
+	<img class="rellax" data-rellax-speed="7" src="img/rekax/4.png" alt="">
+</section>
+<section class="parallax-window" data-parallax="scroll" data-image-src="img/1.jpg"></section>
+<section class="white"></section>
+<section class="parallax-window" data-parallax="scroll" data-image-src="img/2.jpg"></section>
+	
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+<script src="js/parallax.min.js"></script>
+<script src="js/rellax.min.js"></script>
+<script>
+	var rellax = new Rellax('.rellax');
+</script>
+</body>
+</html>
